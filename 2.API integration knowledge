@@ -3,5 +3,5 @@ API allows the interaction between many applications.
 Using API developers can add functionality to their applications so that there will not be need of writing the whole code by themselves.
 Developers use APIs so that they can access data and software from other applications and use them for their purposes.
 It can send requests and get the services from the other applications.
-Few types of APIs are XML,JSON,SOAP,REST etc.
+Few types of APIs are XML,JSON,SOAP,REST, etc.
 Few APIs can be webservices. REST APIis a type of webservice.
